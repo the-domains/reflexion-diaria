@@ -1,29 +1,41 @@
-name: Tinta del Dia - TDD
-favicon: null
-layout_spectrum: 0.84393
-typography_spectrum: 0.43707
 title: Tinta del Dia - de Jose Luis Alfinger
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.84393
+favicon: null
+name: Tinta del Dia - TDD
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.6148936
+  lightness: 0.6875
+  saturation: 0.625
+  rhythmicContrast: 0.5
   brandColors:
     - '#f2f2f2'
     - '#349dd6'
     - '#2b2e1d'
     - '#126eb9'
     - '#635f18'
-  brandStrength: 0.1875
-  lightness: 0.6875
-  saturation: 0.625
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.43707
