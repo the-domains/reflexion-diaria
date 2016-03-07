@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tinta del Dia - de Jose Luis Alfinger]]></title>
+        <description><![CDATA[Tinta del Dia - de Jose Luis Alfinger]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 15:48:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c89497a-c6c8-4372-83ba-e36734ab0fce.jpg">]]></description>
+            <link>undefinedc5181017-b5ac-4a1d-bd7a-3611e98c91d9/index.html</link>
+            <guid isPermaLink="false">c5181017-b5ac-4a1d-bd7a-3611e98c91d9</guid>
+            <pubDate>Mon, 07 Mar 2016 15:48:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
