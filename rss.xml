@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tinta del Dia - de Jose Luis Alfinger]]></title>
         <description><![CDATA[Tinta del Dia - de Jose Luis Alfinger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reflexion-diaria/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 15:48:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 16:00:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reflexion-diaria/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/157a965c-1968-4a70-9533-79d257471ba6.jpg">]]></description>
+            <link>https://thegrid.ai/reflexion-diaria/e16746ee-3a14-4df8-a522-3a5f7ce41e1b/index.html</link>
+            <guid isPermaLink="false">e16746ee-3a14-4df8-a522-3a5f7ce41e1b</guid>
+            <pubDate>Mon, 07 Mar 2016 16:00:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c89497a-c6c8-4372-83ba-e36734ab0fce.jpg">]]></description>
-            <link>undefinedc5181017-b5ac-4a1d-bd7a-3611e98c91d9/index.html</link>
+            <link>https://thegrid.ai/reflexion-diaria/c5181017-b5ac-4a1d-bd7a-3611e98c91d9/index.html</link>
             <guid isPermaLink="false">c5181017-b5ac-4a1d-bd7a-3611e98c91d9</guid>
             <pubDate>Mon, 07 Mar 2016 15:48:13 GMT</pubDate>
         </item>
