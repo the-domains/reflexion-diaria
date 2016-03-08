@@ -1,7 +1,7 @@
 name: Tinta del Dia - TDD
 favicon: null
 layout_spectrum: 0.84393
-typography_spectrum: 0.43707
+typography_spectrum: 0.33302
 title: Tinta del Dia por Jose Luis Alfinger.
 collections:
   - index:
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f2f2f2'
-    - '#349dd6'
-    - '#2b2e1d'
-    - '#126eb9'
-    - '#635f18'
-  brandStrength: 0.6148936
+    - '#dbe3e6'
+    - '#001900'
+    - '#fcb000'
+    - '#436400'
+    - '#3586ac'
+  brandStrength: 0.1875
   lightness: 0.6875
   saturation: 0.625
   rhythmicContrast: 0.5
